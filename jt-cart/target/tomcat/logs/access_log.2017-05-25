@@ -1,0 +1,4 @@
+127.0.0.1 - - [25/May/2017:17:03:39 +0800] "GET /cart/query/1 HTTP/1.0" 200 940 http-bio-8084-exec-1 508
+127.0.0.1 - - [25/May/2017:17:03:59 +0800] "GET /cart/update/num/1/1091750/2 HTTP/1.0" 200 47 http-bio-8084-exec-2 147
+127.0.0.1 - - [25/May/2017:17:03:59 +0800] "GET /cart/query/1 HTTP/1.0" 200 940 http-bio-8084-exec-3 8
+127.0.0.1 - - [25/May/2017:17:05:12 +0800] "GET /cart/query/1 HTTP/1.0" 200 940 http-bio-8084-exec-4 16

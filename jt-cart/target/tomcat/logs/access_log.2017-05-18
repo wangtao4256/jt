@@ -1,0 +1,7 @@
+127.0.0.1 - - [18/May/2017:09:44:28 +0800] "GET /cart/get/item/514/562379 HTTP/1.0" 200 227 http-bio-8084-exec-1 1508
+127.0.0.1 - - [18/May/2017:09:44:30 +0800] "GET /cart/update/num/514/562379/3 HTTP/1.0" 200 47 http-bio-8084-exec-2 1433
+127.0.0.1 - - [18/May/2017:09:44:30 +0800] "GET /cart/query/514 HTTP/1.0" 200 272 http-bio-8084-exec-3 37
+127.0.0.1 - - [18/May/2017:09:44:42 +0800] "GET /cart/update/num/514/562379/2 HTTP/1.0" 200 47 http-bio-8084-exec-4 78
+127.0.0.1 - - [18/May/2017:09:44:42 +0800] "GET /cart/query/514 HTTP/1.0" 200 272 http-bio-8084-exec-5 16
+127.0.0.1 - - [18/May/2017:09:44:43 +0800] "GET /cart/update/num/514/562379/1 HTTP/1.0" 200 47 http-bio-8084-exec-6 81
+127.0.0.1 - - [18/May/2017:09:44:43 +0800] "GET /cart/query/514 HTTP/1.0" 200 272 http-bio-8084-exec-7 33

@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+ <head>
+ </head>
+ <body>
+ 
+<script type="text/javascript">
+	//工作原理，<script>做了下面两件事情
+
+	//第一件：利用js中的神 eval函数，把字符串转换成js对象
+	var data = eval("({'key':'jt good.'})");
+	function test(data){
+		alert(data.key);
+	}
+	
+	//第二件：然后利用js回调
+	test(data);
+
+</script>
+
+ </body>
+</html>

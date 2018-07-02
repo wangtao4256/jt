@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/httpcore-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/jedis-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.1.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-retry-1.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/guava-15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/persistence-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/commons-pool2-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-paginator-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/pagehelper-3.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/jsqlparser-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/joda-time-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-messaging-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-rabbit-1.4.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/httpclient-4.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/httpmime-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/mapper-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.3.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/bonecp-spring-0.8.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/bonecp-0.8.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-amqp-1.4.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/amqp-client-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aspects-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/jt-common-0.0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jt-sso-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
